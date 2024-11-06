@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "993894967116",
+    "project_id": "ecommerce-coral",
+    "storage_bucket": "ecommerce-coral.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993894967116:android:61198fe3f87a66ef0291e9",
+        "android_client_info": {
+          "package_name": "com.example.coral_exam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJQcfyBDnG-63ALYoQbgf0TVGXgWZhNL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
